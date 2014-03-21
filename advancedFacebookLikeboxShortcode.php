@@ -6,7 +6,7 @@
 Plugin Name: Advanced Facebook  Shortcode
 Plugin URI: http://www.sparxseo.com
 Description: Advanced Custom Facebook Likebox Shortcode is a customizable facebook likebox wordpress widget. There have lots of options to customize the likebox shortcode. So by using this you can up and run a customizable wordpress widget on your website very easily.
-Version: 1.0
+Version: 1.1
 Author: Alan Ferdinand
 Author URI: http://www.sparxseo.com
 */
@@ -25,7 +25,7 @@ add_shortcode('advFacebookBox', 'advancedFacebookLikeboxShortcode');
         'border' => '2',
 		'bordercolor' => '#9A1717',
         'theme' => 'light',
-		'author' => 'true'
+		'author' => 'false'
  	), $atts);
  	extract($atts);
 
