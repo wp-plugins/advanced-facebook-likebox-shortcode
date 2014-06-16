@@ -61,6 +61,6 @@ add_shortcode('advFacebookBox', 'advancedFacebookLikeboxShortcode');
 </div>                   
 ";
 if($author == "true"){
-	$data .= "<div style='font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;'><a href='http://www.liveherechicago.com/' target='_blank' style='color: #808080;' title='more information'>Apartments for rent in Chicago</a></div>";}
+	$data .= "<div style='font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;'><a href='http://www.liveherechicago.com/' target='_blank' style='color: #808080;' title='click here'>Chicago apartments for rent</a></div>";}
     return $data;
  }
