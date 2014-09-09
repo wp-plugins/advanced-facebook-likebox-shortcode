@@ -5,7 +5,7 @@ Author Name : Alan Ferdinand
 Author URL : http://www.sparxseo.com
 Tags: advanced facebook likebox shortcode, wordpress shortcode plugin, advanced facebook, custom facebook, facebook likebox, facebook shortcode, facebook for wordpress, facebook widget for wordpress, super customizable facebook likebox
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
